@@ -14,4 +14,5 @@
 <br />
 <br />
 
-![DesignLab Preview](https://raw.githubusercontent.com/kw1c-SchuurmansMark/HTA/main/images/hero.jpg "DesignLab Preview")
+## Preview
+![DesignLab Preview](https://raw.githubusercontent.com/kw1c-SchuurmansMark/HTA/main/images/index.png "DesignLab Preview")
